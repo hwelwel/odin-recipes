@@ -1,0 +1,41 @@
+body {
+    background-color: #32302f;
+    font-family: Helvetica, sans-serif;
+    color: #ebdbb2;
+}
+
+h1 {
+    font-style: bold;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+/*
+    max-width: 100%;
+    height: auto;
+*/
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #fe8019;
+}
+
+a:visited {
+    color: #928374;
+}
+
+a:hover {
+    color: #ebdbb2;
+}
+
+a:active {
+    color: #fabd2f;
+}
